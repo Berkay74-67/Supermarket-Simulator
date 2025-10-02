@@ -1,3 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.psd filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+[[:space:]]cat[[:space:]].gitattributes
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator filter=lfs diff=lfs merge=lfs -text
+C:/Users/warba/OneDrive/Belgeler/GitHub/Supermarket-Simulator/** filter=lfs diff=lfs merge=lfs -text
